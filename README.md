@@ -2,8 +2,8 @@
 ### Data Source : UCI Repository : - https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients
 ## Problem Statement
 By using this, we will able to understand the pattern and which important features leads to a default of credit card
-    1. Which variables are the strongest predictors of default?
-    2. Which customers are likely to default?
+        1. Which variables are the strongest predictors of default?
+        2. Which customers are likely to default?
 ## Dataset Information
 This dataset contains information on default payments, demographic factors, credit data, history of payment, and bill statements of credit card clients in Taiwan from April 2005 to September 2005.
 ## Attribute Information
